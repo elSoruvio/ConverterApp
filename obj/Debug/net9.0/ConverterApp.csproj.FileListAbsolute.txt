@@ -1,0 +1,14 @@
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\bin\Debug\net9.0\ConverterApp.exe
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\bin\Debug\net9.0\ConverterApp.deps.json
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\bin\Debug\net9.0\ConverterApp.runtimeconfig.json
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\bin\Debug\net9.0\ConverterApp.dll
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\bin\Debug\net9.0\ConverterApp.pdb
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ConverterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ConverterApp.AssemblyInfoInputs.cache
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ConverterApp.AssemblyInfo.cs
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ConverterApp.dll
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\refint\ConverterApp.dll
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ConverterApp.pdb
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ConverterApp.genruntimeconfig.cache
+C:\Users\C-JOVEM-P011\Documents\soruvio\CSharp\ConverterApp\obj\Debug\net9.0\ref\ConverterApp.dll
