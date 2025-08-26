@@ -81,7 +81,7 @@ namespace ConverterApp
                 catch (Exception)
                 {
 
-                    Console.WriteLine("Error on value input.");
+                    Console.WriteLine("Input error. Try again.");
                     continue;
 
                 }
@@ -135,13 +135,6 @@ namespace ConverterApp
 
                     InputUnit1 = Console.ReadLine();
 
-                    if (!Array.Exists(AllUnits, unit => unit.Name.Equals(InputUnit1)))
-                    {
-
-                        throw new Exception();
-
-                    }
-
                     if (!(Array.Exists(AllUnits, unit => unit.Name.Equals(InputUnit1) && unit.TypeInt == UnitType)))
                     {
 
@@ -172,18 +165,14 @@ namespace ConverterApp
                 {
 
                     InputUnit2 = Console.ReadLine();
-                    if (!Array.Exists(AllUnits, unit => unit.Name.Equals(InputUnit2)))
-                    {
 
-                        throw new Exception();
-
-                    }
                     if (!(Array.Exists(AllUnits, unit => unit.Name.Equals(InputUnit2) && unit.TypeInt == UnitType)))
                     {
 
                         throw new Exception();
 
                     }
+                    
                 }
                 catch (Exception)
                 {
